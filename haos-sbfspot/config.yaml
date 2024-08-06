@@ -3,7 +3,7 @@ name: HAOS-SBFspot
 version: 2024.7.1
 slug: haos-sbfspot
 description: Manage SBFspot with a simple interface
-url: "https://github.com/habuild/hassio-addons/tree/main/haos-sbfspot"
+url: "https://github.com/justingood/hassio-addons/tree/main/haos-sbfspot"
 stage: experimental
 
 image: "ghcr.io/habuild/{arch}-addon-haos-sbfspot"
